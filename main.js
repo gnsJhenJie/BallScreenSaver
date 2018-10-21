@@ -10,7 +10,7 @@ c.height = window.innerHeight;
 
 // 變數設定
 var x = [200,500,400,100];
-var y = [200,130,500,700];
+var y = [200,130,500,680];
 var dx = [4,3,2,1];
 var dy = [4,5,3,1];
 //ball function
